@@ -8,7 +8,7 @@
     { "nom": "Révisions", "statut": "à venir" },
     { "nom": "Livraison", "statut": "à venir" }
   ],
-  "message": "Le montage de ta vidéo est en cours, tu recevras une première version d'ici le 8 juillet.",
+  "message": "Le montage vidéo du Reel 1 est finis",
   "drive_url": "https://drive.google.com/drive/folders/exemple",
   "contact_photo": "photo.jpg"
 }
