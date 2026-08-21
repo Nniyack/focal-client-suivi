@@ -1,0 +1,29 @@
+{
+  "projet": "Mini-série — Anima Sola",
+  "client": "Philippine & Marion",
+  "etapes": [
+    {
+      "nom": "Cadrage & préparation",
+      "statut": "à venir"
+    },
+    {
+      "nom": "Tournage",
+      "statut": "à venir"
+    },
+    {
+      "nom": "Montage",
+      "statut": "à venir"
+    },
+    {
+      "nom": "Révisions",
+      "statut": "à venir"
+    },
+    {
+      "nom": "Livraison",
+      "statut": "à venir"
+    }
+  ],
+  "message": "Entretien à caler prochainement.",
+  "drive_url": "",
+  "contact_photo": "photo.jpg"
+}
