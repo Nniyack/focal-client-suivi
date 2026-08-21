@@ -1,0 +1,29 @@
+{
+  "projet": "Mini-série — Cosmos Vintage",
+  "client": "Marion",
+  "etapes": [
+    {
+      "nom": "Cadrage & préparation",
+      "statut": "en cours"
+    },
+    {
+      "nom": "Tournage",
+      "statut": "à venir"
+    },
+    {
+      "nom": "Montage",
+      "statut": "à venir"
+    },
+    {
+      "nom": "Révisions",
+      "statut": "à venir"
+    },
+    {
+      "nom": "Livraison",
+      "statut": "à venir"
+    }
+  ],
+  "message": "Entretien réalisé le 18/08 en boutique, détermination des sujets en cours.",
+  "drive_url": "",
+  "contact_photo": "photo.jpg"
+}
