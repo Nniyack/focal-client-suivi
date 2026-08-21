@@ -1,14 +1,1 @@
-{
-  "projet": "Mini-série — MB création",
-  "client": "Morgane",
-  "etapes": [
-    { "nom": "Cadrage & préparation", "statut": "terminé" },
-    { "nom": "Tournage", "statut": "terminé" },
-    { "nom": "Montage", "statut": "terminé" },
-    { "nom": "Révisions", "statut": "terminé" },
-    { "nom": "Livraison", "statut": "terminé" }
-  ],
-  "message": "Les Reels 1, 2, 3 sont finis, reel 4 est en cours de montage.",
-  "drive_url": "https://drive.google.com/drive/folders/1IGH7nYhoiL9kXaQnaQIDeXyq-h4gPqXs?usp=sharing",
-  "contact_photo": "photo.jpg"
-}
+{"test":true}
